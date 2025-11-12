@@ -199,11 +199,80 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done!",
+  
   achievementsCards: [
+    {
+      title: "Data Visualization V8",
+      subtitle: "Skills in D3.js, JSON, and API data handling, and included practical projects.",
+      image: require("./assets/images/certifDataVisualiz.png"), // Replace with your own image if available
+      imageAlt: "Cybersecurity Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "" // Add link if available
+        },
+        {
+          name: "Date",
+          url: "",
+          desc: "December 2022"
+        }
+      ]
+    },
+    {
+      title: "Build Apps with Flutter",
+      subtitle: "Earned the “Build Apps with Flutter” badge from Google Developer Program.",
+      image: require("./assets/images/flutterBadge.png"), // Replace with your own image if available
+      imageAlt: "Cybersecurity Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "" // Add link if available
+        },
+        {
+          name: "Date",
+          url: "",
+          desc: "December 2022"
+        }
+      ]
+    },
+    {
+      title: "Intermediate Machine Learning",
+      subtitle: "have successfully completed the Intermediate Machine Learning course.Key topics covered: handling missing values, categorical variables, pipelines, cross-validation, XGBoost, and avoiding data leakage.",
+      image: require("./assets/images/MLKaggle.png"), // Replace with your own image if available
+      imageAlt: "Cybersecurity Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "" // Add link if available
+        },
+        {
+          name: "Date",
+          url: "",
+          desc: "December 2022"
+        }
+      ]
+    },
+    {
+      title: "Python",
+      subtitle: "Functions, loops, lists, strings, dictionaries, and working with external libraries.",
+      image: require("./assets/images/pythonKaggle.png"), // Replace with your own image if available
+      imageAlt: "Cybersecurity Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "" // Add link if available
+        },
+        {
+          name: "Date",
+          url: "",
+          desc: "December 2022"
+        }
+      ]
+    },
     {
       title: "Ethical Hacking & IoT Cybersecurity",
       subtitle: "Completed training on ethical hacking and IoT cybersecurity.",
-      image: require("./assets/images/hack.webp"), // Replace with your own image if available
+      image: require("./assets/images/EthicalHackingIoTCybersecurity.png"), // Replace with your own image if available
       imageAlt: "Cybersecurity Logo",
       footerLink: [
         {
@@ -220,7 +289,7 @@ const achievementSection = {
     {
       title: "Penetration Testing for IoT Devices",
       subtitle: "Hands-on workshop on penetration testing for IoT devices.",
-      image: require("./assets/images/iot.png"), // Replace with your own image if available
+      image: require("./assets/images/EthicalHackingIoTCybersecurity.png"), // Replace with your own image if available
       imageAlt: "IoT Logo",
       footerLink: [
         {
@@ -288,7 +357,7 @@ const achievementSection = {
     {
       title: "Competitive Programming",
       subtitle: "Engaged in competitive programming activities.",
-      image: require("./assets/images/cpc.png"), // Replace with your own image if available
+      image: require("./assets/images/cpcISIMED.jpeg"), // Replace with your own image if available
       imageAlt: "Competitive Programming Logo",
       footerLink: [
         {
