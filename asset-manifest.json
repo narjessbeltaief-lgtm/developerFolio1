@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/developerFolio1/static/css/main.9138facb.css",
-    "main.js": "/developerFolio1/static/js/main.02275fdc.js",
+    "main.css": "/developerFolio1/static/css/main.c17c5197.css",
+    "main.js": "/developerFolio1/static/js/main.29a2b50a.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio1/static/css/64.bba8fa55.chunk.css",
     "static/js/64.2aa3e0b9.chunk.js": "/developerFolio1/static/js/64.2aa3e0b9.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio1/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.d0407eb8.chunk.js": "/developerFolio1/static/js/769.d0407eb8.chunk.js",
+    "static/media/mugs3.png": "/developerFolio1/static/media/mugs3.91f71b0d4b6ae1caac6d.png",
     "static/media/EthicalHackingIoTCybersecurity.png": "/developerFolio1/static/media/EthicalHackingIoTCybersecurity.4186e21572c31a3a19aa.png",
     "static/media/pythonKaggle.png": "/developerFolio1/static/media/pythonKaggle.657aad4eb840fd328593.png",
     "static/media/MLKaggle.png": "/developerFolio1/static/media/MLKaggle.aac5cda70c9081f18ead.png",
@@ -16,8 +17,7 @@
     "static/media/hackathon.png": "/developerFolio1/static/media/hackathon.fc5f8adb489518defa7d.png",
     "static/media/Agustina.woff": "/developerFolio1/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/cpcISIM.jpg": "/developerFolio1/static/media/cpcISIM.c400995f13331a020eee.jpg",
-    "static/media/bebe2.jpg": "/developerFolio1/static/media/bebe2.2b5c5d5d05ca42b1972b.jpg",
-    "static/media/7.jpg": "/developerFolio1/static/media/7.7c6779bbf1d61506a0be.jpg",
+    "static/media/bebe.png": "/developerFolio1/static/media/bebe.9a9bcc3cd36dfde9ac94.png",
     "static/media/manOnTable.svg": "/developerFolio1/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/flutterBadge.png": "/developerFolio1/static/media/flutterBadge.dcc5022989d13a83acf9.png",
     "static/media/isimg.png": "/developerFolio1/static/media/isimg.e94006361bffc1365582.png",
@@ -29,15 +29,15 @@
     "static/media/resume.pdf": "/developerFolio1/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/developerFolio1/index.html",
     "static/media/talksCardBack.svg": "/developerFolio1/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.9138facb.css.map": "/developerFolio1/static/css/main.9138facb.css.map",
-    "main.02275fdc.js.map": "/developerFolio1/static/js/main.02275fdc.js.map",
+    "main.c17c5197.css.map": "/developerFolio1/static/css/main.c17c5197.css.map",
+    "main.29a2b50a.js.map": "/developerFolio1/static/js/main.29a2b50a.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio1/static/css/64.bba8fa55.chunk.css.map",
     "64.2aa3e0b9.chunk.js.map": "/developerFolio1/static/js/64.2aa3e0b9.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio1/static/css/769.b3cbb36b.chunk.css.map",
     "769.d0407eb8.chunk.js.map": "/developerFolio1/static/js/769.d0407eb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9138facb.css",
-    "static/js/main.02275fdc.js"
+    "static/css/main.c17c5197.css",
+    "static/js/main.29a2b50a.js"
   ]
 }
