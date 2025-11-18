@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/developerFolio1/static/css/main.27c7ee78.css",
-    "main.js": "/developerFolio1/static/js/main.93230a21.js",
+    "main.js": "/developerFolio1/static/js/main.14747642.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio1/static/css/64.bba8fa55.chunk.css",
     "static/js/64.2aa3e0b9.chunk.js": "/developerFolio1/static/js/64.2aa3e0b9.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio1/static/css/769.b3cbb36b.chunk.css",
@@ -11,23 +11,25 @@
     "static/media/MLKaggle.png": "/developerFolio1/static/media/MLKaggle.aac5cda70c9081f18ead.png",
     "static/media/ml.jpg": "/developerFolio1/static/media/ml.83f944c878fbaf11231d.jpg",
     "static/media/certifDataVisualiz.png": "/developerFolio1/static/media/certifDataVisualiz.4810f2dd7ecfefad1065.png",
-    "static/media/cpcISIMED.jpeg": "/developerFolio1/static/media/cpcISIMED.d8f3bb9eb67c5a23e68d.jpeg",
     "static/media/Montserrat-Regular.ttf": "/developerFolio1/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/isimed.jpg": "/developerFolio1/static/media/isimed.61107725a3814892d814.jpg",
     "static/media/hackathon.png": "/developerFolio1/static/media/hackathon.fc5f8adb489518defa7d.png",
     "static/media/Agustina.woff": "/developerFolio1/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/cpcISIM.jpg": "/developerFolio1/static/media/cpcISIM.c400995f13331a020eee.jpg",
     "static/media/bebe.png": "/developerFolio1/static/media/bebe.9a9bcc3cd36dfde9ac94.png",
     "static/media/manOnTable.svg": "/developerFolio1/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/flutterBadge.png": "/developerFolio1/static/media/flutterBadge.dcc5022989d13a83acf9.png",
     "static/media/isimg.png": "/developerFolio1/static/media/isimg.e94006361bffc1365582.png",
     "static/media/contactMailDark.svg": "/developerFolio1/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/developerFolio1/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/tmkiin.jpg": "/developerFolio1/static/media/tmkiin.20497dc57ef3d482eff5.jpg",
+    "static/media/m-it.jpg": "/developerFolio1/static/media/m-it.64c8ee8da2aaad080872.jpg",
     "static/media/skill.svg": "/developerFolio1/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/resume.pdf": "/developerFolio1/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/developerFolio1/index.html",
     "static/media/talksCardBack.svg": "/developerFolio1/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.27c7ee78.css.map": "/developerFolio1/static/css/main.27c7ee78.css.map",
-    "main.93230a21.js.map": "/developerFolio1/static/js/main.93230a21.js.map",
+    "main.14747642.js.map": "/developerFolio1/static/js/main.14747642.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio1/static/css/64.bba8fa55.chunk.css.map",
     "64.2aa3e0b9.chunk.js.map": "/developerFolio1/static/js/64.2aa3e0b9.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio1/static/css/769.b3cbb36b.chunk.css.map",
@@ -35,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.27c7ee78.css",
-    "static/js/main.93230a21.js"
+    "static/js/main.14747642.js"
   ]
 }
